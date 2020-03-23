@@ -1,0 +1,1 @@
+export {addMovie, deleteMovie, setWatched} from "./movies";
